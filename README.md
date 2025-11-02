@@ -2,7 +2,7 @@
 
 ##  Descrição do Projeto
 
-Este projeto implementa um sistema de **comunicação sem fio via LoRa** entre uma **FPGA ColorLight i9** e uma **BitDogLab**, utilizando módulos **LoRa RFM96**.
+Este projeto implementa um sistema de **comunicação sem fio via LoRa** entre uma **FPGA ColorLight i5** e uma **BitDogLab**, utilizando módulos **LoRa RFM96**.
 
 O sistema é composto por dois nós:
 
